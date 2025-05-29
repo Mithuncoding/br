@@ -67,7 +67,6 @@ function App() {
       <header className="nike-hero">
         <h1>JUST DO IT.</h1>
         <p>Discover the latest shoes, apparel, and gear from Nike.</p>
-        <button className="nike-cta">Shop Now</button>
       </header>
       <section className="nike-categories">
         <div className="nike-category-tabs">
@@ -88,7 +87,6 @@ function App() {
               <img src={product.image} alt={product.name} />
               <h3>{product.name}</h3>
               <p>{product.price}</p>
-              <button>Buy</button>
             </div>
           ))}
         </div>

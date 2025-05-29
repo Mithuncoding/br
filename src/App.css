@@ -184,7 +184,7 @@ body {
   box-shadow: 0 2px 8px rgba(0,0,0,0.04);
 }
 .nike-category-tab:hover {
-  background: #e5e5e5;
+  background: lightviolet;
 }
 .nike-category-tab.active {
   background: #111;
