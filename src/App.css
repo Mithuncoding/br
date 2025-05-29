@@ -187,7 +187,7 @@ body {
   background: #e5e5e5;
 }
 .nike-category-tab.active {
-  background: #111;
+  background: #007bff;
   color: #fff;
   box-shadow: 0 4px 16px rgba(0,0,0,0.10);
 }
